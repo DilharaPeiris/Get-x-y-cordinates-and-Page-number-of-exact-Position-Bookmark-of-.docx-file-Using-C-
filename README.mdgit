@@ -1,2 +1,1 @@
-"# Get-x-y-cordinates-and-Page-number-of-exact-Position-Bookmark-of-.docx-file-Using-C-"  initgit add README.mdgit commit -m "first commit"git remote add origin https://github.com/DilharaPeiris/Get-x-y-cordinates-and-Page-number-of-exact-Position-Bookmark-of-.docx-file-Using-C-.gitgit push -u origin master
-"# Get-x-y-cordinates-and-Page-number-of-exact-Position-Bookmark-of-.docx-file-Using-C-"  initgit add README.mdgit commit -m "first commit"git remote add origin https://github.com/DilharaPeiris/Get-x-y-cordinates-and-Page-number-of-exact-Position-Bookmark-of-.docx-file-Using-C-.gitgit push -u origin master
+To get X,Y codinates and Page number of a growing Word Document (.docx)
